@@ -23,7 +23,7 @@ O projeto segue um pipeline clássico de análise de dados:
 2. **Tratamento de Anomalias:** Uso da fórmula matemática do Intervalo Interquartil (IQR) para identificação e remoção de *outliers*.
 3. **Análise Exploratória (AED):** Uso do `pandas` e consultas SQL (via `pandasql`) para agrupamentos e estatísticas descritivas.
 4. **Visualização de Dados:** Construção de gráficos interativos e estáticos com `matplotlib` (Evolução temporal, gráficos de barras e setores).
-5. **Integração com IA Generativa:** Uso da API do **Google Gemini** (`google-generativeai`) nativamente no código Python para ler tabelas e gerar resumos textuais como um "historiador digital".
+5. **Integração com Machine Learning:** Implementação de um modelo preditivo de **Regressão Logística** (`scikit-learn`) nativamente no código Python para classificar e prever a origem das operações aéreas.
 
 ---
 
@@ -45,11 +45,11 @@ O projeto segue um pipeline clássico de análise de dados:
 2. Abra a pasta do projeto no VS Code ou suba os arquivos no **Google Colab**.
 3. Instale as dependências (caso rode localmente):
    ```bash
-   pip install pandas matplotlib pandasql google-generativeai
+   pip install pandas matplotlib pandasql scikit-learn
    ```
 4. Abra o arquivo `projeto_analise_tcc.ipynb` e execute as células sequencialmente.
 
-> **Aviso sobre a API de IA:** Para rodar a seção 7.3 (Inteligência Artificial), você precisará gerar uma chave gratuita no [Google AI Studio](https://aistudio.google.com/app/apikey) e inseri-la no código.
+> **Aviso sobre a IA:** A Seção 7.3 (Inteligência Artificial) utiliza um modelo local de Machine Learning. Diferente de soluções web, ele roda de forma 100% offline sem depender de chaves externas ou internet.
 
 ---
 Feito com 💻 e ☕ por **Joseph Alexsander** e equipe.

@@ -13,7 +13,7 @@ O projeto consistiu em aplicar um pipeline completo de Análise e Ciência de Da
 *   **Análise Exploratória Básica:** Utilização de ferramentas estatísticas do Pandas (`describe`, `groupby`, `min`, `max`) e consultas nativas via SQL utilizando a biblioteca `pandasql`.
 *   **Tratamento de Anomalias:** Cálculo e aplicação da regra do Intervalo Interquartil (IQR) para a identificação matemática e remoção de registros fora do padrão (*outliers*).
 *   **Visualização de Dados:** Geração de gráficos analíticos com `matplotlib`, incluindo Histogramas de distribuição, Gráficos de Barras, Gráficos de Setores (Pizza) e evolução temporal em Gráfico de Linhas.
-*   **Integração de IA (API):** Desenvolvimento de um script em Python consumindo a API oficial do *Google Gemini* (`google-generativeai`) para ler métricas geradas pelas tabelas e devolver um resumo executivo histórico.
+*   **Integração de Machine Learning:** Treinamento de um modelo preditivo de **Regressão Logística** usando a biblioteca `scikit-learn` para classificar e prever a origem das operações aéreas com base em dados de latitude e longitude.
 
 ---
 
