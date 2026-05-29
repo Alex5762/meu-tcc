@@ -39,7 +39,7 @@ Este documento organiza a divisão de tarefas para a apresentação do projeto. 
 *   **O que deve falar na apresentação:**
     *   Explicar a exigência do "Uso de IA" no projeto.
     *   Mostrar a Seção 7.3 do caderno, onde o código em Python se conecta com a nuvem do Google.
-    *   Ressaltar que o grupo utilizou a **API do Gemini** e executar a geração do resumo histórico em tempo real na frente do professor.
+    *   Ressaltar que o grupo treinou um **Modelo de Machine Learning (Regressão Logística)** ensinado pelo próprio professor e demonstrar a previsão em tempo real.
 
 ---
 
