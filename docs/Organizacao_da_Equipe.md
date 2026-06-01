@@ -1,7 +1,7 @@
 # Organização da Equipe e Roteiro de Apresentação
 
 **Projeto:** Análise de Dados Históricos da Segunda Guerra Mundial com Python  
-**Equipe:** Joseph Alexsander, [Integrante 2], [Integrante 3] e [Integrante 4]
+**Equipe:** Joseph Alexsander, Bernardo de Barros Lobato, Fernando Gentili Magalhães e Lucas Godinho Dias Souza
 
 Este documento organiza a divisão de tarefas para a apresentação do projeto. A ideia é estruturar o grupo como uma "Squad" de tecnologia, garantindo que todos os integrantes tenham um papel claro, uma fala definida e saibam exatamente o que explicar (mesmo quem não tem tanta facilidade com a programação).
 
@@ -18,7 +18,7 @@ Este documento organiza a divisão de tarefas para a apresentação do projeto. 
     *   Mostrar as linhas de código que geraram os visuais (gráficos de pizza e barras).
 
 ### 2. Engenheiro de Qualidade de Dados (QA / Limpeza)
-**Responsável:** [Nome do Colega 1]  
+**Responsável:** Fernando Gentili Magalhães  
 **Papel:** Explica a parte de higienização dos dados. Mostra para a banca que dados reais dão trabalho e vêm com problemas de formatação.
 *   **O que deve falar na apresentação:**
     *   O que significa a etapa de ETL (Extração, Transformação e Limpeza).
@@ -26,7 +26,7 @@ Este documento organiza a divisão de tarefas para a apresentação do projeto. 
     *   Como a equipe utilizou a matemática (regra do IQR) para identificar e remover anomalias e registros absurdos (*outliers*) da base de dados.
 
 ### 3. Especialista de Domínio / "O Historiador"
-**Responsável:** [Nome do Colega 2]  
+**Responsável:** Lucas Godinho Dias Souza  
 **Papel:** Não vai falar nada de código. É a pessoa responsável por "traduzir" os gráficos gerados pelo Python para a História real.
 *   **O que deve falar na apresentação:**
     *   Apresentar as descobertas: Explicar o gráfico de evolução temporal, mostrando o motivo do pico de bombardeios em 1944 (Operação Overlord/Dia D).
@@ -34,7 +34,7 @@ Este documento organiza a divisão de tarefas para a apresentação do projeto. 
     *   Garantir a relevância social do trabalho.
 
 ### 4. Responsável por Inovação e Inteligência Artificial
-**Responsável:** [Nome do Colega 3]  
+**Responsável:** Bernardo de Barros Lobato  
 **Papel:** Fica com o fechamento do trabalho, focado na parte moderna e "hypada" da tecnologia.
 *   **O que deve falar na apresentação:**
     *   Explicar a exigência do "Uso de IA" no projeto.
