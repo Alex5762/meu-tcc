@@ -31,7 +31,6 @@ O projeto segue um pipeline clássico de análise de dados:
 
 * `notebooks/projeto_analise_tcc.ipynb` 👉 **[ARQUIVO PRINCIPAL]** O Jupyter Notebook contendo todo o código Python, os gráficos gerados e a documentação interativa.
 * `notebooks/roteiro_extensao.ipynb` 👉 Caderno focado na documentação e no *storytelling* da pesquisa.
-* `docs/Documentacao_Metodologia_e_IA.md` 👉 Declaração das metodologias aplicadas e do uso de Inteligência Artificial como assistente de programação (*Pair Programming*).
 * `docs/Organizacao_da_Equipe.md` 👉 Divisão das tarefas para a apresentação do projeto.
 
 ---
