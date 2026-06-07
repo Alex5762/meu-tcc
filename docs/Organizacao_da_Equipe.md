@@ -38,7 +38,7 @@ Este documento organiza a divisão de tarefas para a apresentação do projeto. 
 **Papel:** Fica com o fechamento do trabalho, focado na parte moderna e "hypada" da tecnologia.
 *   **O que deve falar na apresentação:**
     *   Explicar a exigência do "Uso de IA" no projeto.
-    *   Mostrar a Seção 7.3 do caderno, onde o código em Python se conecta com a nuvem do Google.
+    *   Mostrar a Seção 7.3 do caderno, onde o código em Python treina um modelo local de Machine Learning.
     *   Ressaltar que o grupo treinou um **Modelo de Machine Learning (Regressão Logística)** ensinado pelo próprio professor e demonstrar a previsão em tempo real.
 
 ---
