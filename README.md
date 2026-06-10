@@ -31,6 +31,9 @@ O projeto segue um pipeline clássico de análise de dados:
 
 * `notebooks/projeto_analise_tcc.ipynb` 👉 **[ARQUIVO PRINCIPAL]** O Jupyter Notebook contendo todo o código Python, os gráficos gerados e a documentação interativa.
 * `notebooks/roteiro_extensao.ipynb` 👉 Caderno focado na documentação e no *storytelling* da pesquisa.
+* `notebooks/roteiro_extensao_para_pdf.ipynb` 👉 Versão simples do roteiro no formato solicitado pelo professor.
+* `docs/ROTEIRO_DE_EXTENSAO_ORIGINAL.docx` 👉 Modelo original do roteiro de extensão.
+* `docs/NOTAS_TRABALHO_PYTHON_MODELO.xlsx` 👉 Planilha original com a distribuição dos pontos.
 
 ---
 
