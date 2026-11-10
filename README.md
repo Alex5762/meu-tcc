@@ -26,6 +26,12 @@ A análise utiliza o conjunto de dados **THOR (Theater History of Operations Rep
 
 **O desenvolvimento técnico deste projeto foi realizado integralmente por mim**, incluindo a estruturação do notebook, preparação dos dados, análises, visualizações, experimentos de Machine Learning e documentação.
 
+## Prévia de uma visualização
+
+<p align="center">
+  <img src="docs/evidencias/grafico_notebook.jpg" alt="Exemplo de gráfico produzido durante a análise dos dados históricos" width="850" />
+</p>
+
 ## Etapas desenvolvidas
 
 1. **ETL e preparação dos dados**
